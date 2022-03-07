@@ -1,0 +1,6 @@
+BOT_TOKEN = ""          # bot token from discord developer portal
+BOT_PREFIX = ""         # bot prefix
+
+SPREADSHEET_KEY = ""    # spreadsheet key from google sheets spreadsheet URL
+ALLOWED_ROLES = []      # list of role ID's that can use the bot
+GUILD_ID = ""           # guild ID (bot will expect a worksheet with this ID as the name)
